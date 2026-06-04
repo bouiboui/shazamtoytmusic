@@ -1,5 +1,7 @@
 # Shazam to YouTube Music Playlist Converter
 
+![Shazam to YouTube Music](header.png)
+
 Convert your Shazam export CSV into a YouTube Music playlist.
 
 ## Features
